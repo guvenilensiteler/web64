@@ -321,7 +321,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/jrfsp5kQ",
+        "url": "https://cutt.ly/orMBr7Kj",
         "desc": [
           "KAYIT OL 1.000 TL DENEME BONUSU AL !"
         ],
@@ -456,6 +456,10 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
+          {
+            "site": "sahabet",
+            "sort": "1"
+          },
           {
             "site": "grandpashabet",
             "sort": "1"
