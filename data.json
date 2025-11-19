@@ -152,12 +152,12 @@
       {
         "url": "https://shorteleven.online/ercuap",
         "desc": [
-          "ÜYE OL 500₺ DENEME BONUSU AL"
+          "ÜYE OL 250₺ DENEME BONUSU AL"
         ],
         "site": "grandpashabet",
         "sort": null,
         "color": "#efb521",
-        "miktar": "₺500",
+        "miktar": "₺250",
         "promo_code_yok": "%300 hoş geldin bonusu",
         "slider_img": ""
       },
@@ -176,26 +176,26 @@
       {
         "url": "https://cutt.ly/ssylap",
         "desc": [
-          "500 TL DENEME BONUSU"
+          "250 TL DENEME BONUSU"
         ],
         "site": "ramadabet",
         "sort": null,
         "color": "#ca1640",
-        "miktar": "₺500",
+        "miktar": "₺250",
         "promo_code_yok": "HAFTALIK %5 KAYIP BONUSU!",
         "slider_img": ""
       },
       {
         "url": "https://cutt.ly/ercuapdama",
         "desc": [
-          "ÇEVRİMSİZ 250TL DENEME BONUSU!"
+          "ÇEVRİMSİZ 500TL DENEME BONUSU!"
         ],
         "site": "damabet",
         "sort": null,
         "color": "#ffc300",
-        "miktar": "₺250",
+        "miktar": "₺500",
         "promo_code": null,
-        "promo_code_yok": "HEMEN ÜYE OL 250₺ BONUS AL!",
+        "promo_code_yok": "HEMEN ÜYE OL 500₺ BONUS AL!",
         "slider_img": ""
       },
       {
@@ -219,13 +219,13 @@
         "site": "betwoon",
         "sort": null,
         "color": "#159d4b",
-        "miktar": "₺250",
+        "miktar": "₺500",
         "promo_code": null,
         "promo_code_yok": "YATIRIM VE ÇEVRİM ŞARTSIZ 250TL DENEME BONUSU!",
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/45Q7FrL",
+        "url": "https://bit.ly/4hk6iqu",
         "desc": [
           "HOŞ GELDİN BONUSUNU AL!"
         ],
@@ -237,7 +237,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/Zrsa9pUD",
+        "url": "https://cutt.ly/6r5mGxIP",
         "desc": [
           "5 DAKİKADA ÇEKİM LİMİTSİZ KAZANÇ"
         ],
@@ -249,19 +249,19 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/8rJC7uGa",
+        "url": "https://cutt.ly/Lr5Qe5i0",
         "desc": [
           "KAYIT OL DENEME BONUSUNU AL!"
         ],
         "site": "zbahis",
         "sort": null,
         "color": "#48effa",
-        "miktar": "₺500",
+        "miktar": "₺1.000",
         "promo_code_yok": "",
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/8rJC2Hg7",
+        "url": "https://cutt.ly/Ar5m4dS1",
         "desc": [
           "1.000 TL DENEME BONUSU"
         ],
@@ -273,7 +273,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/CrfvFvNJ",
+        "url": "https://cutt.ly/Kr1FGKVY",
         "desc": [
           "750 TL & 750 FREE SPIN"
         ],
@@ -285,7 +285,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/BrfvJbrb",
+        "url": "https://cutt.ly/ir1F6cUC",
         "desc": [
           "YATIRIMSIZ DENEME BONUSU"
         ],
@@ -333,7 +333,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/wrfvZYU2",
+        "url": "https://cutt.ly/Ir1FF41n",
         "desc": [
           "KAYIT OL ANINDA 750 TL DENEME BONUSU KAZAN!"
         ],
@@ -367,6 +367,54 @@
         "miktar": "₺500",
         "promo_code_yok": "%100 FREESPİN KAZANANA KADAR BONUS",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/8r1FAJA3",
+        "desc": [
+          "750 TL & 750 FREE SPIN DENEME BONUSU"
+        ],
+        "site": "onwin",
+        "sort": null,
+        "color": "#b910a1",
+        "miktar": "₺750",
+        "promo_code_yok": "",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/cr1FD7MY",
+        "desc": [
+          "750 TL DENEME BONUSU"
+        ],
+        "site": "bycasino",
+        "sort": null,
+        "color": "#ff6600",
+        "miktar": "₺750",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/Ar5QtJC1",
+        "desc": [
+          "666 TL DENEME BONUSU"
+        ],
+        "site": "solobet",
+        "sort": null,
+        "color": "#ff7400",
+        "miktar": "₺666",
+        "promo_code": null,
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/lr5mHFVj",
+        "desc": [
+          "1.000 TL DENEME BONUSU"
+        ],
+        "site": "supertotobet",
+        "sort": null,
+        "color": "#ff003c",
+        "miktar": "₺1.000",
+        "promo_code": null,
+        "slider_img": ""
       }
     ],
     "social": {
@@ -380,7 +428,7 @@
       "telegram": null,
       "instagram": null
     },
-    "cdn_url": "https://memduhbasgan.com/",
+    "cdn_url": "https://memduhbasgan.guvenlibonus.com/",
     "is_slider": true,
     "background": null,
     "categories": [
@@ -457,32 +505,80 @@
         "sort": "3",
         "sites": [
           {
+            "site": "tipobet",
+            "sort": "1"
+          },
+          {
             "site": "sahabet",
-            "sort": "1"
-          },
-          {
-            "site": "grandpashabet",
-            "sort": "1"
-          },
-          {
-            "site": "maxwin",
             "sort": "2"
           },
           {
-            "site": "ramadabet",
+            "site": "onwin",
             "sort": "3"
           },
           {
-            "site": "damabet",
+            "site": "starzbet",
             "sort": "4"
           },
           {
-            "site": "dedebet",
+            "site": "bycasino",
             "sort": "5"
           },
           {
-            "site": "betwoon",
+            "site": "ligobet",
             "sort": "6"
+          },
+          {
+            "site": "zbahis",
+            "sort": "7"
+          },
+          {
+            "site": "fixbet",
+            "sort": "8"
+          },
+          {
+            "site": "matadorbet",
+            "sort": "9"
+          },
+          {
+            "site": "solobet",
+            "sort": "10"
+          },
+          {
+            "site": "supertotobet",
+            "sort": "11"
+          },
+          {
+            "site": "bayspin",
+            "sort": "12"
+          },
+          {
+            "site": "marsbahis",
+            "sort": "13"
+          },
+          {
+            "site": "grandpashabet",
+            "sort": "14"
+          },
+          {
+            "site": "maxwin",
+            "sort": "15"
+          },
+          {
+            "site": "ramadabet",
+            "sort": "16"
+          },
+          {
+            "site": "damabet",
+            "sort": "17"
+          },
+          {
+            "site": "dedebet",
+            "sort": "18"
+          },
+          {
+            "site": "betwoon",
+            "sort": "19"
           }
         ]
       },
