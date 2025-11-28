@@ -162,7 +162,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/ercmaxw",
+        "url": "https://cutt.ly/memduhmx",
         "desc": [
           "ÜYE OL 300₺ DENEME BONUSU AL"
         ],
@@ -174,7 +174,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/ssylap",
+        "url": "https://cutt.ly/memduhrmd",
         "desc": [
           "250 TL DENEME BONUSU"
         ],
@@ -212,7 +212,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/ercuapbw",
+        "url": "https://cutt.ly/memduhhbw",
         "desc": [
           "%30 SABİT KAYIP BONUSU"
         ],
@@ -415,6 +415,30 @@
         "miktar": "₺1.000",
         "promo_code": null,
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/Memduhhvnm",
+        "desc": [
+          "ÜYE OL, BONUSU AL"
+        ],
+        "site": "venombet",
+        "sort": null,
+        "color": "#ff002b",
+        "miktar": "₺300",
+        "promo_code_yok": "%50 SLOT BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/memduhhpsh",
+        "desc": [
+          "300 TL DENEME BONUSU"
+        ],
+        "site": "pashagaming",
+        "sort": null,
+        "color": "#ebb800",
+        "miktar": "₺300",
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -557,12 +581,32 @@
             "sort": "13"
           },
           {
-            "site": "bayspin",
+            "site": "venombet",
             "sort": "14"
           },
           {
-            "site": "marsbahis",
+            "site": "ramadabet",
             "sort": "15"
+          },
+          {
+            "site": "maxwin",
+            "sort": "16"
+          },
+          {
+            "site": "betwoon",
+            "sort": "17"
+          },
+          {
+            "site": "pashagaming",
+            "sort": "18"
+          },
+          {
+            "site": "bayspin",
+            "sort": "19"
+          },
+          {
+            "site": "marsbahis",
+            "sort": "20"
           }
         ]
       },
