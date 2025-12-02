@@ -439,6 +439,18 @@
         "miktar": "₺300",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapxbahibom",
+        "desc": [
+          "1.000 TL DENEME BONUSU"
+        ],
+        "site": "bahibom",
+        "sort": null,
+        "color": "#b60d83",
+        "miktar": "₺1.000",
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -573,44 +585,48 @@
             "sort": "11"
           },
           {
-            "site": "palazzobet",
+            "site": "bahibom",
             "sort": "12"
           },
           {
-            "site": "grandpashabet",
+            "site": "palazzobet",
             "sort": "13"
           },
           {
-            "site": "damabet",
+            "site": "grandpashabet",
             "sort": "14"
           },
           {
-            "site": "venombet",
+            "site": "damabet",
             "sort": "15"
           },
           {
-            "site": "ramadabet",
+            "site": "venombet",
             "sort": "16"
           },
           {
-            "site": "maxwin",
+            "site": "ramadabet",
             "sort": "17"
           },
           {
-            "site": "betwoon",
+            "site": "maxwin",
             "sort": "18"
           },
           {
-            "site": "pashagaming",
+            "site": "betwoon",
             "sort": "19"
           },
           {
-            "site": "bayspin",
+            "site": "pashagaming",
             "sort": "20"
           },
           {
-            "site": "marsbahis",
+            "site": "bayspin",
             "sort": "21"
+          },
+          {
+            "site": "marsbahis",
+            "sort": "22"
           }
         ]
       },
